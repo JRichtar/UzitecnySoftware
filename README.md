@@ -38,9 +38,10 @@ richtar.jakub.2018@skola.ssps.cz <br/>
     * Výstup : chybové hlášení když nebude odpovězená otázka
   2. Zobrazení odpovědí 
     * Důležitost: 2
-    * Vstup: Vyhodnocený test
+    * Vstup: Vyhodnocený test  
     * Akce: tlačítkem Zobrazit odpovědi
-    * Výstup: správné odpovědi budou označeny zeleně, špatné odpovědi budou označeny červeně a budou zobrazeny vysvětlivky
+    * Výstup: správné odpovědi budou označeny zeleně
+    * Výstup: špatné odpovědi budou označeny červeně a budou zobrazeny vysvětlivky
 * Nefunkční požadavky
   * Odezva
     * Systém bude poskytovat odezvu do 3s od zadání akce
