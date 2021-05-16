@@ -15,8 +15,6 @@ richtar.jakub.2018@skola.ssps.cz <br/>
   * Konvence dokumentu
     * Důležitost - 1 nejvyšší, 5 nejnižší
     * Všechny kritické požadavky budou tučně
-  * Kontakty
-    * Jakub Richtár richtar.jakub.2018@skola.ssps.cz
 * Celkový popis
   * Funkce
     * Software bude sloužit k ověření znalostí z českého jazyka, z učiva probraného na ZŠ a SŠ
