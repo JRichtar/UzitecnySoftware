@@ -23,3 +23,13 @@ richtar.jakub.2018@skola.ssps.cz <br/>
   * Vymezení rozsahu
     * Nebude možné v testu vytvořit otevřené otázky
 * Celková hrubá architektura 
+  * Pracovní tok
+    * Po spuštění aplikace bude nutné vytvořit test, po vytvoření testu bude možné test vyplnit a následně zobrazit a uložit výsledky
+  * Hlavní moduly
+    1. Modul pro vytvoření testu
+    2. Modul pro vyplnění testu
+    3. Modul pro zhodnocení testu
+    4. Modul pro uložení výsledků testu
+  * Všechny detaily
+    * Obrazovka bude pouze jedna, budou se vyskytovat oznamovací okna např. při zobrazení výsledků. Dále pak okno pro tvoření/úpravu testů. Chybové zprávy se budou vyskytovat zejména při tvorbě/úpravě testů a při vyhodnocování testu. Všechny akce se budou spouštět tlačítky.
+  
