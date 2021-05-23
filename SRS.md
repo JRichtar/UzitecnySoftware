@@ -1,4 +1,4 @@
-# UzitecnySoftware
+# Specifikace Požadavků
 ## Verze 2
 
 Tvorba softwaru ve formě gramatického testu
